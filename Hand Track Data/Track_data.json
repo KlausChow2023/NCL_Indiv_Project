@@ -1,0 +1,164 @@
+[
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Left Hand",
+        "position": [
+            -2.95531,
+            149.335,
+            12.742
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Left Hand",
+        "position": [
+            -2.37622,
+            156.145,
+            10.6864
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Left Hand",
+        "position": [
+            -2.44468,
+            161.249,
+            12.6171
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Left Hand",
+        "position": [
+            1.64281,
+            92.5164,
+            146.914
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Right Hand",
+        "position": [
+            11.1974,
+            181.947,
+            28.062
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Right Hand",
+        "position": [
+            11.5645,
+            175.925,
+            13.5366
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Right Hand",
+        "position": [
+            19.7085,
+            188.852,
+            29.2387
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Right Hand",
+        "position": [
+            21.3886,
+            245.204,
+            134.052
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Right Hand",
+        "position": [
+            22.5021,
+            245.281,
+            134.148
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Right Hand",
+        "position": [
+            26.6199,
+            247.516,
+            138.453
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Right Hand",
+        "position": [
+            40.109,
+            272.504,
+            159.699
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Right Hand",
+        "position": [
+            82.1694,
+            198.678,
+            107.949
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Left Hand",
+        "position": [
+            6.74374,
+            187.333,
+            4.13504
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Left Hand",
+        "position": [
+            2.63939,
+            194.962,
+            5.61458
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Right Hand",
+        "position": [
+            23.9267,
+            202.015,
+            22.2617
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Right Hand",
+        "position": [
+            20.1647,
+            204.956,
+            20.9093
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Left Hand",
+        "position": [
+            12.4373,
+            136.037,
+            -21.3387
+        ]
+    },
+    {
+        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "hand_type": "Left Hand",
+        "position": [
+            16.0738,
+            160.26,
+            36.2515
+        ]
+    }
+]
