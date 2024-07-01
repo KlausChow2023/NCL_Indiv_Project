@@ -1,164 +1,101 @@
 [
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Left Hand",
         "position": [
-            -2.95531,
-            149.335,
-            12.742
+            5.14272,
+            263.191,
+            5.21881
         ]
     },
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Left Hand",
         "position": [
-            -2.37622,
-            156.145,
-            10.6864
+            3.25162,
+            256.443,
+            -11.1889
         ]
     },
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Left Hand",
         "position": [
-            -2.44468,
-            161.249,
-            12.6171
+            -1.841,
+            255.755,
+            -13.459
         ]
     },
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Left Hand",
         "position": [
-            1.64281,
-            92.5164,
-            146.914
+            86.1079,
+            84.1439,
+            86.926
         ]
     },
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Right Hand",
         "position": [
-            11.1974,
-            181.947,
-            28.062
+            15.932,
+            245.295,
+            -5.91087
         ]
     },
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Right Hand",
         "position": [
-            11.5645,
-            175.925,
-            13.5366
+            14.5443,
+            251.302,
+            -11.0335
         ]
     },
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Right Hand",
         "position": [
-            19.7085,
-            188.852,
-            29.2387
+            14.67,
+            251.045,
+            -11.8433
         ]
     },
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Right Hand",
         "position": [
-            21.3886,
-            245.204,
-            134.052
+            22.754,
+            252.544,
+            -11.4258
         ]
     },
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Right Hand",
         "position": [
-            22.5021,
-            245.281,
-            134.148
+            -34.7675,
+            365.335,
+            -13.7288
         ]
     },
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Right Hand",
         "position": [
-            26.6199,
-            247.516,
-            138.453
+            -2.7366,
+            397.522,
+            7.435
         ]
     },
     {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
+        "timestamp": "Wed Jun 26 09:08:33 2024",
         "hand_type": "Right Hand",
         "position": [
-            40.109,
-            272.504,
-            159.699
-        ]
-    },
-    {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
-        "hand_type": "Right Hand",
-        "position": [
-            82.1694,
-            198.678,
-            107.949
-        ]
-    },
-    {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
-        "hand_type": "Left Hand",
-        "position": [
-            6.74374,
-            187.333,
-            4.13504
-        ]
-    },
-    {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
-        "hand_type": "Left Hand",
-        "position": [
-            2.63939,
-            194.962,
-            5.61458
-        ]
-    },
-    {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
-        "hand_type": "Right Hand",
-        "position": [
-            23.9267,
-            202.015,
-            22.2617
-        ]
-    },
-    {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
-        "hand_type": "Right Hand",
-        "position": [
-            20.1647,
-            204.956,
-            20.9093
-        ]
-    },
-    {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
-        "hand_type": "Left Hand",
-        "position": [
-            12.4373,
-            136.037,
-            -21.3387
-        ]
-    },
-    {
-        "timestamp": "Tue Jun 25 15:52:12 2024",
-        "hand_type": "Left Hand",
-        "position": [
-            16.0738,
-            160.26,
-            36.2515
+            54.3134,
+            305.984,
+            104.871
         ]
     }
 ]

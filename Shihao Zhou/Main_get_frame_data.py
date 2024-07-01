@@ -23,12 +23,12 @@ while True:
                 # 创建一个手掌对象
             hand_position = hand.palm_position
                 # 要输出的信息
-            output = f"It's your [{hand_type}], and position is: {hand_position}\n"
+            output = f"[{hand_type}]>hand_type<{hand_position}\n"
             print(output)
                 # 以追加模式在指定文件内写入输出的数据
             f = open('C:\\Users\\Klaus\\Desktop\\Indiv Project\\With Python\\LEAP\\Hand Track Data\\Track_data.txt', "a",)
                 # 在每行数据前加上当前时间
-            f.write(f'{current_t} >>> ')
+            f.write(f'{current_t}>current_time<')
             f.write(output)
                 # 关闭文件
             f.close()

@@ -20,9 +20,9 @@ for line in lines:
     line = line.strip()
     if line:
         # 按照文档内容的格式进行分割和提取
-        timestamp_part, data_part = line.split(" >>> It's your")
+        timestamp_part, data_part = line.split(">current_time<")
         timestamp = timestamp_part.strip()
-        hand_type, position_str = data_part.strip().split(", and position is: ")
+        hand_type, position_str = data_part.strip().split(">hand_type<")
         position = eval(position_str)  # 将位置信息字符串转换为元组
 
         # 构建字典
