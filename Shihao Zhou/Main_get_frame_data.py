@@ -1,6 +1,9 @@
 import Leap
 import time
 
+import os
+data_converter_path = r"C:\\Users\\Klaus\\Desktop\\Indiv Project\\With Python\\LEAP\\Shihao Zhou\\convert_json.py"
+
 print("Shihao Zhou, ID: 230594553")
 print("Individual Project with LEAP MOTION 1")
 print("[Python 3.8.6],[Leap Orion V4.1.0]")
@@ -51,11 +54,11 @@ while True:
 
 
                 except Exception :
-                    print('One measure done')
+                    os.system(f'python "{data_converter_path}"')
 
         else:
-            print("Where is your hand?")
-            dly(0.3)
+            print("NO HAND SINGNAL")
+            dly(0.5)
 
     except Exception :
         print('--------------------------------------------------')

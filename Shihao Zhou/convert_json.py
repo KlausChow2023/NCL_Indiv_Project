@@ -23,4 +23,4 @@ for line in lines:
 with open(json_file_path, 'w') as json_file:
     json.dump(data, json_file, indent=4)
 
-print(f"JSON文件已保存到: {json_file_path}")
+print("JSON file was stored")
